@@ -1,2 +1,4 @@
-# dinkdonk-scheme
+DinkDonk Scheme
+===============
+
 DinkDonk - A Dark Color Scheme for Sublime Text
