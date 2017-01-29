@@ -1,7 +1,7 @@
 DinkDonk Scheme
 ===============
 
-DinkDonk - A Dark Color Scheme for Sublime Text
+DinkDonk - A dark and happy color scheme for Sublime Text
 
 ---
 
@@ -12,6 +12,7 @@ DinkDonk - A Dark Color Scheme for Sublime Text
 ### JavaScript Preview
 
 ![JavaScript preview](https://github.com/DinkDonk/dinkdonk-scheme/blob/master/preview-javascript.png)
+Font used in previews is [Operator Mono](http://www.typography.com/fonts/operator/styles/operatormono) By Hoefler & Co.
 
 ### Installation
 
