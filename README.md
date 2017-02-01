@@ -7,11 +7,11 @@ DinkDonk - A dark and happy color scheme for Sublime Text
 
 ### Colors
 
-![colors](https://github.com/DinkDonk/dinkdonk-scheme/blob/master/preview-colors.png)
+![colors](https://dinkdonk.github.io/dinkdonk-scheme/preview-colors.png)
 
 ### JavaScript Preview
 
-![JavaScript preview](https://github.com/DinkDonk/dinkdonk-scheme/blob/master/preview-javascript.png)
+![JavaScript preview](https://dinkdonk.github.io/dinkdonk-scheme/preview-javascript.png)
 Font used in previews is [Operator Mono](http://www.typography.com/fonts/operator/styles/operatormono) By Hoefler & Co.
 
 ### Installation
