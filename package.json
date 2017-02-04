@@ -1,0 +1,18 @@
+{
+  "name": "dinkdonk-scheme",
+  "version": "1.0.1",
+  "description": "DinkDonk - A dark and happy color scheme for Sublime Text",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinkDonk/dinkdonk-scheme.git"
+  },
+  "author": "Rune Warhuus <rune@dinkdonk.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DinkDonk/dinkdonk-scheme/issues"
+  },
+  "homepage": "https://github.com/DinkDonk/dinkdonk-scheme#readme"
+}
