@@ -6,7 +6,7 @@
 
 To build these files you must first install dev dependencies:
 ```bash
-$npm install
+$npm bootstrap
 ```
 
 And then you can run build:
