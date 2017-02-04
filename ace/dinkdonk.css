@@ -1,0 +1,117 @@
+.ace-dinkdonk .ace_gutter {
+  background: #18181B;
+  color: rgb(140,138,122)
+}
+
+.ace-dinkdonk .ace_print-margin {
+  width: 1px;
+  background: #e8e8e8
+}
+
+.ace-dinkdonk {
+  background-color: #18181B;
+  color: #FFFBD9
+}
+
+.ace-dinkdonk .ace_cursor {
+  color: #F8F8F0
+}
+
+.ace-dinkdonk .ace_marker-layer .ace_selection {
+  background: #39686B
+}
+
+.ace-dinkdonk.ace_multiselect .ace_selection.ace_start {
+  box-shadow: 0 0 3px 0px #18181B;
+  border-radius: 2px
+}
+
+.ace-dinkdonk .ace_marker-layer .ace_step {
+  background: rgb(198, 219, 174)
+}
+
+.ace-dinkdonk .ace_marker-layer .ace_bracket {
+  margin: -1px 0 0 -1px;
+  border: 1px solid #3B3A32
+}
+
+.ace-dinkdonk .ace_marker-layer .ace_active-line {
+  background: #303840
+}
+
+.ace-dinkdonk .ace_gutter-active-line {
+  background-color: #303840
+}
+
+.ace-dinkdonk .ace_marker-layer .ace_selected-word {
+  border: 1px solid #39686B
+}
+
+.ace-dinkdonk .ace_fold {
+  background-color: #CCE8D3;
+  border-color: #FFFBD9
+}
+
+.ace-dinkdonk .ace_entity.ace_name.ace_tag,
+.ace-dinkdonk .ace_keyword,
+.ace-dinkdonk .ace_storage {
+  color: #EB175E
+}
+
+.ace-dinkdonk .ace_constant.ace_character,
+.ace-dinkdonk .ace_constant.ace_language,
+.ace-dinkdonk .ace_constant.ace_numeric,
+.ace-dinkdonk .ace_constant.ace_other {
+  color: #8D4CA1
+}
+
+.ace-dinkdonk .ace_support.ace_function {
+  color: #A5CCD9
+}
+
+.ace-dinkdonk .ace_support.ace_constant {
+  color: #70CFF6
+}
+
+.ace-dinkdonk .ace_support.ace_class,
+.ace-dinkdonk .ace_support.ace_type {
+  font-style: italic;
+  color: #70CFF6
+}
+
+.ace-dinkdonk .ace_storage.ace_type {
+  font-style: italic;
+  color: #94D7A6
+}
+
+.ace-dinkdonk .ace_invalid {
+  color: #F8F8F0;
+  background-color: #EB175E
+}
+
+.ace-dinkdonk .ace_invalid.ace_deprecated {
+  color: #F8F8F0;
+  background-color: #8D4CA1
+}
+
+.ace-dinkdonk .ace_string {
+  color: #B6A997
+}
+
+.ace-dinkdonk .ace_comment {
+  color: #F7F06F
+}
+
+.ace-dinkdonk .ace_entity.ace_name.ace_function,
+.ace-dinkdonk .ace_variable {
+  color: #CCE8D3
+}
+
+.ace-dinkdonk .ace_variable.ace_parameter {
+  font-style: italic;
+  color: #FD6A1D
+}
+
+.ace-dinkdonk .ace_entity.ace_other.ace_attribute-name {
+  color: #94D7A6
+}
