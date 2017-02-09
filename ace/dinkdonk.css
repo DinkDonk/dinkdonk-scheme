@@ -102,6 +102,7 @@
   color: #F7F06F
 }
 
+.ace-dinkdonk .ace_entity.ace_name,
 .ace-dinkdonk .ace_entity.ace_name.ace_function,
 .ace-dinkdonk .ace_variable {
   color: #CCE8D3
@@ -114,4 +115,9 @@
 
 .ace-dinkdonk .ace_entity.ace_other.ace_attribute-name {
   color: #94D7A6
+}
+
+.ace-dinkdonk .ace_variable.ace_language {
+  font-style: italic;
+  color: #A6CCD9
 }
