@@ -15,14 +15,14 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>DinkDonk Purist</string>
+	<string>DinkDonk Purist Darker</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1E201D</string>
+				<string>#1A1A1A</string>
 				<key>caret</key>
 				<string>#89E2A1</string>
 				<key>foreground</key>
@@ -32,7 +32,7 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#18181B</string>
+				<string>#1E201D</string>
 				<key>selection</key>
 				<string>#39686B</string>
 
@@ -316,10 +316,10 @@
 
 	</array>
 	<key>uuid</key>
-	<string>544857D6-FD6C-48A6-8478-0B35C9FC84FE</string>
+	<string>1CED1BE1-CBCD-4B19-9839-0D8858C5F6A8</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.dinkdonk.purist</string>
+	<string>theme.dark.dinkdonk.purist.darker</string>
 </dict>
 </plist>
