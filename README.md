@@ -37,8 +37,7 @@ Font used in previews is [Operator Mono](http://www.typography.com/fonts/operato
 #### Manually
 
 ##### Full Monty
-1. Download the [DinkDonk.tmTheme file](https://raw.githubusercontent.com/DinkDonk/dinkdon
-2. k-scheme/master/DinkDonk.tmTheme)
+1. Download the [DinkDonk.tmTheme file](https://raw.githubusercontent.com/DinkDonk/dinkdonk-scheme/master/DinkDonk.tmTheme)
 2. Choose `Browse Packages` from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on MacOS)
 3. Copy `DinkDonk.tmTheme` to the `Packages` directory
 
