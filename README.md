@@ -14,6 +14,19 @@ DinkDonk - A dark and happy color scheme for Sublime Text
 ![JavaScript preview](https://dinkdonk.github.io/dinkdonk-scheme/preview-javascript.png)
 Font used in previews is [Operator Mono](http://www.typography.com/fonts/operator/styles/operatormono) By Hoefler & Co.
 
+## Purist Variant
+
+For the serious purist. Inspired by Jonathan Blow
+
+### Colors
+
+![colors](https://dinkdonk.github.io/dinkdonk-scheme/preview-colors-purist.png)
+
+### JavaScript Preview
+
+![JavaScript preview](https://dinkdonk.github.io/dinkdonk-scheme/preview-javascript-purist.png)
+Font used in previews is [Operator Mono](http://www.typography.com/fonts/operator/styles/operatormono) By Hoefler & Co.
+
 ### Installation
 
 #### Via Package Control
