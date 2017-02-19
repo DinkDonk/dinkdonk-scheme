@@ -22,9 +22,9 @@ For the serious purist. Inspired by Jonathan Blow
 
 ![colors](https://dinkdonk.github.io/dinkdonk-scheme/preview-colors-purist.png)
 
-### JavaScript Preview
+### TypeScript Preview
 
-![JavaScript preview](https://dinkdonk.github.io/dinkdonk-scheme/preview-javascript-purist.png)
+![TypeScript preview](https://dinkdonk.github.io/dinkdonk-scheme/preview-typescript-purist.png)
 Font used in previews is [Operator Mono](http://www.typography.com/fonts/operator/styles/operatormono) By Hoefler & Co.
 
 ### Installation
