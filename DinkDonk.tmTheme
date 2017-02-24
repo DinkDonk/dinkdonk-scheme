@@ -365,7 +365,43 @@
 				<string>#A6CCD9</string>
 			</dict>
 		</dict>
+
+		<!-- SublimeLinter Specific -->
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Error</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.error</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EB175E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Gutter Mark</string>
+			<key>scope</key>
+			<string>sublimelinter.gutter-mark</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F8F8F0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Warning</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.warning</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F7F06F</string>
+			</dict>
+		</dict>
 	</array>
+
 	<key>uuid</key>
 	<string>044AE9D1-D7AB-4010-9C90-0957DADA3408</string>
 	<key>colorSpaceName</key>
