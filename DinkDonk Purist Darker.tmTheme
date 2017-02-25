@@ -49,6 +49,16 @@
 				<string>#3B3A324D</string>
 				<key>activeGuide</key>
 				<string>#3B3A32</string>
+
+				<key>bracketsForeground</key>
+				<string>#F7F06F</string>
+				<key>bracketsOptions</key>
+				<string>foreground</string>
+
+				<key>bracketContentsForeground</key>
+				<string>#F7F06F</string>
+				<key>bracketContentsOptions</key>
+				<string>foreground</string>
 			</dict>
 		</dict>
  		<dict>
