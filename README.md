@@ -29,6 +29,13 @@ For the serious purist. Inspired by Jonathan Blow
 
 ![colors](https://dinkdonk.github.io/dinkdonk-scheme/preview-colors-purist.png)
 
+|       |  1|  2|  3|  4|  5|  6|  7|  8|
+|------:|--:|--:|--:|--:|--:|--:|--:|--:|
+|**R**  |255|247|182|204|137| 30| 24|235|
+|**G**  |251|240|169|232|226| 32| 24| 23|
+|**B**  |217|111|151|211|161| 29| 27| 94|
+|**HEX**|FFFBD9|F7F06F|B6A997|CCE8D3|89E2A1|1E201D|18181B|EB175E|
+
 ### TypeScript Preview
 
 ![TypeScript preview](https://dinkdonk.github.io/dinkdonk-scheme/preview-typescript-purist.png)

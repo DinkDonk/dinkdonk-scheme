@@ -1,7 +1,7 @@
 Color4DWireEx=rgb(57, 104, 107) # Wire
 Color4DBusEx=rgb(148, 215, 166) # Bus wire
 Color4DConnEx=rgb(148, 215, 166) # Junction
-Color4DLLabelEx=rgb(141, 76, 161) # Net label
+Color4DLLabelEx=rgb(235, 23, 94) # Net label
 Color4DHLabelEx=rgb(235, 88, 27) # Hierarchical label
 Color4DGLabelEx=rgb(235, 23, 94) # Global label
 Color4DPinNumEx=rgb(166, 204, 217) # Pin number
@@ -9,7 +9,7 @@ Color4DPinNameEx=rgb(182, 169, 151) # Pin name
 Color4DPinEx=rgb(148, 215, 166) # Pin graphics
 Color4DFieldEx=rgb(255, 0, 255) # UNKNOWN!
 Color4DReferenceEx=rgb(182, 169, 151) # Component reference
-Color4DValueEx=rgb(235, 23, 94) # Component value
+Color4DValueEx=rgb(166, 204, 217) # Component value
 Color4DNoteEx=rgb(247, 240, 111) # Text, graphic lines and polygons
 Color4DBodyEx=rgb(204, 232, 211) # Component wall
 Color4DBodyBgEx=rgb(24, 24, 27) # Component fill
